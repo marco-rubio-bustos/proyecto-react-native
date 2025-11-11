@@ -1,22 +1,29 @@
 import React from "react";
-import { View, StyleSheet } from "react-native";
-import Header from "./components/Header";
-import HomeScreen from "./screens/HomeScreen";
-import Footer from "./components/Footer";
+import { SafeAreaView, StyleSheet, View } from "react-native";
+import Navbar from "./components/navbar/Navbar";
+import HomeScreen from "./pages/HomeScreen";
+import { UIProvider } from "./context";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Header />
-      <HomeScreen />
-      <Footer />
-    </View>
+    <UIProvider>
+      <SafeAreaView style={styles.safeArea}>
+        <View style={styles.container}>
+          <Navbar />
+          <HomeScreen />
+        </View>
+      </SafeAreaView>
+    </UIProvider>
   );
 }
 
 const styles = StyleSheet.create({
+  safeArea: {
+    flex: 1,
+    backgroundColor: "#ffffff",
+  },
   container: {
     flex: 1,
-    backgroundColor: "#f5f5f5",
+    backgroundColor: "#ffffff",
   },
 });
