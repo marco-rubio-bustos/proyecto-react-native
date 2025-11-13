@@ -1,10 +1,12 @@
 import React from "react";
 import { View, Text } from "react-native";
 import tw from "twrnc";
+import ProductList from "../components/productsList/ProductsList";
 
 export default function HomeScreen() {
   return (
     <View style={tw`flex-1 items-center justify-center bg-slate-50 px-4`}>
+      < ProductList/>
       <Text style={tw`text-2xl font-semibold text-slate-800 text-center`}>
         Bienvenido a la pantalla principal 👋
       </Text>

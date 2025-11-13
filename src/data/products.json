@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 2,
+    "name": "Sunglasses",
+    "description": "Pantalones vaqueros clásicos de corte recto.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 3,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 4,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 5,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus sem, feugiat nec tellus eget, congue consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 50,
+    "image": "https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page280/sungla/images/glass2.png",
+    "category": "lentes"
+  }
+]
