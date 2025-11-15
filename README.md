@@ -33,12 +33,17 @@ Landing page construida con **React Native + Expo**, organizada siguiendo las bu
 src/
 ├── components/
 │   └── navbar/            # Navbar responsivo (barrel export opcional)
+│   └── productsList/      # Lista de productos
+├── pages/                 # Pantallas/páginas (HomeScreen)
+│   └── HomeScreen/        # Pantalla home 
+├── data
+│   └── productos.json/    # json 
 ├── constants/             # Configuración estática (ej. navegación)
 ├── context/               # Proveedores globales (UIProvider)
 ├── hooks/                 # Hooks personalizados (useResponsive)
-├── pages/                 # Pantallas/páginas (HomeScreen)
 ├── services/              # Capa de datos o API (placeholders listos)
 ├── styles/                # Estilos globales / tokens
+│   └── globalStyles
 ├── types/                 # Tipos y barrel exports
 └── utils/                 # Utilidades y helpers
 ```
