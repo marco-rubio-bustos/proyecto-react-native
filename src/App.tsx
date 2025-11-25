@@ -1,5 +1,5 @@
 import React from "react";
-import { SafeAreaView, StyleSheet, View } from "react-native";
+import {StyleSheet, View } from "react-native";
 import Navbar from "./components/navbar/Navbar";
 import HomeScreen from "./pages/HomeScreen";
 import { UIProvider } from "./context";
@@ -7,13 +7,11 @@ import { UIProvider } from "./context";
 export default function App() {
   return (
     <UIProvider>
-      <SafeAreaView style={styles.safeArea}>
         <View style={styles.container}>
           <Navbar />
           <HomeScreen />
         </View>
-      </SafeAreaView>
-    </UIProvider>
+        </UIProvider>
   );
 }
 
